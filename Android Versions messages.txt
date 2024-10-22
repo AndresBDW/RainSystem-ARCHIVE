@@ -1,0 +1,105 @@
+0.5:
+geometry dash 2.2 android unlock all icons&colors
+
+1.0:
+RainixGD Mod Pack 1.0 for android
+
+unlock all icons & colors
+copy hack
+unlock practice music sync
+custom objects bypass
+practice in platformer
+
+1.1:
+RAINIX MODPACK 1.1 FOR ANDROID
+пингуйте в чате если будут баги
+
+1.1fix:
+HI!
+I have a small android bugfix for you!
+- custom app package (now you don't need to remove original gd to use modpack)
+- rgb icons bugfix
+
+1.2:
+Small update for android :3
+rgb icons fix (again)
+new menu with categories
+no trail
+no wave trail
+no particles
+level edit
+always platformer
+unlock demons
+
+3.0:
+Rainix Modpack v3 for android 2.205!!!
+
+3.1:
+Rainix Modpack v3.1 android
+i will clean ⁠#unknown
+please write there again if you find bugs in update
+
+
+3.2:
+android version with nong
+by the way nong is also in beta
+but i think i will finish it and gdbot this week
+
+3.3a:
+RAINIX MODPACK v3.3 BETA! GD 2206 ANDROID
+it's beta
+I disabled a lot of functions because they are not ready
+final version => next week (maybe tomorrow) 
+but I have a task for you:
+please check filesystem
+it should work
+1) filesystem button in menu should be green
+2) using filemanager check if openfolder exists and works
+3) ping me in the chat and infrom if it works or not
+
+3.4:
+RainixModpack v3.4 android!
+updates:
+noclip
+load unfailed
+gd open folder option
+texturepack manager
+optimization and bugfixes
+texturepack manager usage:
+to load a texturepack just create a folder here
+select texturepack in game
+reload the game
+(by the way I recreated a lot of main function, so in this update could be a lot of bugs. please write in ⁠⦗🐛⦘・bugs )
+bugfix -> tomorrow
+
+4.0a:
+MODPACK V4 BETA!
+
+we have:
+music speedhack fix
+custom transition speed fix
+custom transition crash fix
+end level crash fix
+no music/sfx in game fix
+texturepack loader bugfix
+LEVEL SHARE!
+
+4.0.1a_fix:
+bugfix
+heheif you find some bugs, please switch crashlogger function on and send the crashlog from GDOpenFolder/logs to me
+
+4.1a:
+last beta:
+release = tomorrow!
+50% dash bugfix
+libcurl bugfix
+texturepack loader bugfix
+GD BOT!
+
+4.1a_fix_bot:
+hey!
+there is a new patch with gdbot fastclicks bugfix
+i created linkvertise account
+can you please check if it works?
+✅  - it works
+❌  - it doesn't work
